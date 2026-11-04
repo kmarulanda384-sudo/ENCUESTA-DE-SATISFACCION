@@ -1,0 +1,6 @@
+{
+  "name": "Encuesta Áreas Computacionales - CAB Buga",
+  "description": "Formulario de encuesta de satisfacción sobre el uso de las áreas computacionales del Centro Agropecuario de Buga con envío a Google Sheets y generador HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
